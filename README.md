@@ -4,3 +4,5 @@
 Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 ![DM](https://raw.githubusercontent.com/MaartenGr/BERTopic/master/images/topic_visualization.gif)
 
+BERTopic is a topic modeling technique that leverages embedding models and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions. BERTopic supports guided, (semi-) supervised, hierarchical, and dynamic topic modeling.
+
